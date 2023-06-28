@@ -1,0 +1,23 @@
+install all the man pages (or at least the ones i have obtained so far)
+
+manpages
+man-db
+manpages-dev
+manpages-posix
+manpages-posix-dev
+
+// unsure about the details of below. but want to know where the fuck
+// it installed and how to call it
+debian-faq debian-kernel-handbook debian-handbook
+
+// git stuff (unchecked how to use)
+git-man
+git-doc
+
+// This is just the documentation in the linux src code tree
+linux-doc/jammy-updates,jammy-updates,jammy-security,jammy-security,now 5.15.0-75.82 all [installed]
+  Linux kernel specific documentation for version 5.15.0
+
+/usr/local/man/
+/etc/manpath.config
+
